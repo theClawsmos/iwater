@@ -1,8 +1,8 @@
 # iWater
 
-Welcome to iWater, an Apple product*. iWater also comes with Dehydrated Water and other sizes. We certainly didn't just take your tap water and then overinflate it. Check out our website and you'll see.
+Welcome to iWater, an Apple product*. iWater also comes with Dehydrated Water and other sizes. We certainly didn't just take your tap water and then overinflate it. Check out our [website](https://external.ink/?to=https://bit.ly/dehydratedwater) and you'll see.
 
-[Website](https://bit.ly/dehydratedwater)
+[Website]((https://external.ink/?to=https://bit.ly/dehydratedwater))
 
 
 ## Spoiler Alert
