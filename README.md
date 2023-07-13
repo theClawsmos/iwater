@@ -8,7 +8,7 @@ Welcome to iWater, an Apple product*. iWater also comes with Dehydrated Water (e
 
 ## Demo
 
-
+![Demo](demo.png)
 
 ## Apple Spoilers
 **Touch ID, Tiniest screen ever, Screen shows battery, Battery++
